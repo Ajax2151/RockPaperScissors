@@ -1,0 +1,14 @@
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\bin\Debug\net8.0\RockPaperScissorsv2.exe
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\bin\Debug\net8.0\RockPaperScissorsv2.deps.json
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\bin\Debug\net8.0\RockPaperScissorsv2.runtimeconfig.json
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\bin\Debug\net8.0\RockPaperScissorsv2.dll
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\bin\Debug\net8.0\RockPaperScissorsv2.pdb
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\obj\Debug\net8.0\RockPaperScissorsv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\obj\Debug\net8.0\RockPaperScissorsv2.AssemblyInfoInputs.cache
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\obj\Debug\net8.0\RockPaperScissorsv2.AssemblyInfo.cs
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\obj\Debug\net8.0\RockPaperScissorsv2.csproj.CoreCompileInputs.cache
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\obj\Debug\net8.0\RockPaperScissorsv2.dll
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\obj\Debug\net8.0\refint\RockPaperScissorsv2.dll
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\obj\Debug\net8.0\RockPaperScissorsv2.pdb
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\obj\Debug\net8.0\RockPaperScissorsv2.genruntimeconfig.cache
+C:\Users\ajack\CSharp\CSharpProjects\SoloProjects\RockPaperScissorsv2\obj\Debug\net8.0\ref\RockPaperScissorsv2.dll

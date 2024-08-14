@@ -1,5 +1,4 @@
-﻿string userChoice = " ";
-int computerToss = 0;
+﻿string userChoice = "";
 int userToss = 0;
 
 string? readResult;
@@ -30,9 +29,6 @@ else
             break;
     }
 
-    Random toss = new Random();
-    computerToss = toss.Next(3);
-
     switch (userToss)
     {
         case 0:
@@ -45,6 +41,10 @@ else
             Console.WriteLine("You chose 'Scissors'.");
             break;
     }
+
+    int computerToss = 0;
+    Random toss = new Random();
+    computerToss = toss.Next(3);
 
     switch (computerToss)
     {

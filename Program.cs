@@ -2,8 +2,14 @@
 int computerToss = 0;
 int userToss = 0;
 
+string? readResult;
+
 Console.WriteLine("Please enter your choice: Rock, Paper, or Scissors.");
-userChoice = Console.ReadLine().ToLower().Trim();
+readResult = Console.ReadLine();
+if (readResult != null)
+{
+    userChoice = readResult.ToLower().Trim();
+}
 
 if ((userChoice != "rock") && (userChoice != "paper") && (userChoice != "scissors"))
 {
